@@ -1,0 +1,10 @@
+{
+  "name": "ds9",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "sandbox"
+  },
+  "dependencies": {
+    "@enhance/arc-plugin-enhance": "latest"
+  }
+}
