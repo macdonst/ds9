@@ -5,6 +5,8 @@
     "start": "sandbox"
   },
   "dependencies": {
-    "@enhance/arc-plugin-enhance": "latest"
+    "@begin/validator": "^0.0.9",
+    "@enhance/arc-plugin-enhance": "latest",
+    "@enhance/form-elements": "github:enhance-dev/form-elements"
   }
 }

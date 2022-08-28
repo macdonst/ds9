@@ -1,5 +1,7 @@
 export default function SlotTest({ html, state }) {
+    const { attrs } = state
+    console.log(JSON.stringify(state))
     return html`
-        <div><slot></slot></div>
+    <slot></slot>
     `
   }
